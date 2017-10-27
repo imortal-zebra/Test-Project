@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main(int argv, char **argv)
+int main(int argv, char **argc)
 {
 	cout << "HelloWorld!" << endl;
 
